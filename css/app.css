@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: green;
+  z-index: 1;
+  position: absolute;
+  right: 50%;
+}
+
+.container {
+  position: absolute;
+  top: 5%;
+  height: 90%;
+  width: 100%;
+}
+
+#map {
+  height: 100%;
+  margin: auto;
+}
